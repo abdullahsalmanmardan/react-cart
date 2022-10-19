@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(253, 247, 247);
+}
+
+.mycontainer
+{
+    padding:15px;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.heading
+{
+    border-bottom: 2px solid rebeccapurple
+}
+.cart
+{
+    float:right;
+}
+.cartleft
+{
+    float:left;
+}
+.myRow
+{
+    border-bottom: 2px solid maroon;
+    padding:5px;
+}
+.box
+{
+    width:2px;
+    height: 5px;
+}

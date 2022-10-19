@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": {
+    
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 200,
+
+
+    "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    }
+}
